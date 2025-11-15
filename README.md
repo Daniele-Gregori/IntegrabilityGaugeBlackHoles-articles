@@ -1,4 +1,4 @@
-# IntegrabilityGaugeBlack-articles
+# IntegrabilityGaugeBlackholes-articles
 Codes for the following published research articles on the triality: integrability - N=2 gauge theory - black holes:
 
 * Davide Fioravanti, Daniele Gregori - Integrability and cycles of deformed N=2 gauge theory - Physics Letters B, Volume 804, 2020, 135376, ISSN 0370-2693, [doi.org/10.1016/j.physletb.2020.135376](https://doi.org/10.1016/j.physletb.2020.135376)

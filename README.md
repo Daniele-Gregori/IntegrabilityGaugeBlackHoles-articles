@@ -17,6 +17,8 @@ Currently hosted codes and their features:
     * for **general overtone index n**, from fundamental mode (n=0) to highly damped overtones (n->inf);
     * numeric but **exact** (non-perturbative);
     * through the **thermodynamic Bethe ansatz** (TBA), with the [Wolfram resource function](https://resources.wolframcloud.com/FunctionRepository/resources/ThermodynamicBetheAnsatzSolve/) on [this repository](https://github.com/Daniele-Gregori/ThermodynamicBetheAnsatz).
+
+    
 ...
     
 
